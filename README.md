@@ -5,7 +5,7 @@
 
 <p style="text-align: center;"><a href="https://www.kodak.com/corp/default.htm">Click Here</a> to go to my favorite site</p>
 
-<h1 style="text-align: center;">My name is Pitbull</h1>
+<h1 style="text-align: center;">My name is Luisa Gabaldon</h1>
 
 <h2 style="text-align: center;">Welcome to my site!</h2>
 
