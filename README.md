@@ -1,7 +1,7 @@
 # luisagabaldon.github.io
 <p>&nbsp;</p>
 
-<center><img src="IMG_0032.JPG" width="265" height="266" align="BOTTOM" /></center><hr />
+<center><img src="Screen Shot 2019-04-19 at 11.15.38 AM.png" width="245" height="266" align="BOTTOM" /></center><hr />
 
 <p style="text-align: center;"><a href="https://www.kodak.com/corp/default.htm">Click Here</a> to go to my favorite site</p>
 
