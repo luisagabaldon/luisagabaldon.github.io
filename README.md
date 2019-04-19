@@ -7,7 +7,7 @@
 
 <h2 style="text-align: center;">Welcome to my site!</h2>
 
-<body bgcolor = "lavenderblush">
+<body bgcolor = "LavenderBlush">
 
 <h3 style="text-align: center;">About Me</h3>
 
