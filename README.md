@@ -10,7 +10,7 @@
 
 <h2 style="text-align: center;">Welcome to my site!</h2>
 
-<body bgcolor = "LightSkyBlue">
+<body bgcolor = "LightPink">
 
 <p><strong>About Me</strong></p>
 
