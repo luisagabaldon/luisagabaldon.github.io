@@ -5,13 +5,13 @@
 
 <center><img src="Screen Shot 2019-04-19 at 11.15.38 AM.png" width="245" height="266" align="BOTTOM" /></center>
 
-<h2 style="text-align: center;">Welcome to my site!</h2>
+<h2 style="text-align: center;">Welcome to my site!
+  
+<hr />  
 
 <body bgcolor = "LavenderBlush">
 
-<p><strong>About Me</strong></p>
-
-<hr />
+<p><strong>About Me</strong></p> </h2>
 
 <p> I am a El Paso native currently on her first year at the McCombs School of Business. I am a Marketing major that enjoys photography, soccer, and just doing new things with my friends! I am in love with traveling and going to concerts/raves/music festivals of all sorts!!   <br /><br /></p>
 
