@@ -6,8 +6,6 @@
 <center><img src="Screen Shot 2019-04-19 at 11.15.38 AM.png" width="245" height="266" align="BOTTOM" /></center>
 
 <h2 style="text-align: center;">Welcome to my site!</h2>
-  
-<hr />  
 
 <body bgcolor = "LavenderBlush">
 
