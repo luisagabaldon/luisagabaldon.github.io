@@ -7,7 +7,7 @@
 
 <h2 style="text-align: center;">Welcome to my site!</h2>
 
-<body bgcolor="pink"> 
+<body bgcolor="#FFFF00"> 
   
 <h3 style="text-align: center;">About Me</h3>
   
