@@ -9,7 +9,7 @@
 
 <body bgcolor = "LavenderBlush">
 
-style="text-align: center;">About Me
+<p><strong>About Me</strong></p>
 
 <hr />
 
@@ -20,4 +20,3 @@ style="text-align: center;">About Me
 
 </body>
 
-<hr />
