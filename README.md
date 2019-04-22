@@ -11,7 +11,7 @@
 
 <body bgcolor = "LavenderBlush">
 
-<p><strong>About Me</strong></p> </h2>
+<h3 style="text-align: center;">About Me</h3>
 
 <p> I am a El Paso native currently on her first year at the McCombs School of Business. I am a Marketing major that enjoys photography, soccer, and just doing new things with my friends! I am in love with traveling and going to concerts/raves/music festivals of all sorts!!   <br /><br /></p>
 
