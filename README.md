@@ -7,7 +7,7 @@
 
 <h2 style="text-align: center;">Welcome to my site!</h2>
 
-<table style="background-color:red">
+<body bgcolor="background-color:red">
 
 <h3 style="text-align: center;">About Me</h3>
   
