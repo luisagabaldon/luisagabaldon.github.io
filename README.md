@@ -1,7 +1,9 @@
-<body bgcolor="#FFFF00"> 
+
 <p>&nbsp;</p>
 
 <h1 style="text-align: center;">My name is Luisa Fernanda Gabaldon!!</h1>
+
+<body bgcolor="#000000"> 
 
 <center><img src="Screen Shot 2019-04-19 at 11.15.38 AM.png" width="245" height="266" align="BOTTOM" /></center>
 
@@ -14,8 +16,7 @@
 
 <p style="text-align: center;"><a href="https://www.coolmathgames.com/
 ">Click Here</a> to go to my favorite site!!</p>
-
-<body bgcolor="#FFFF00"> 
+ 
 
 </body>
 
