@@ -15,6 +15,5 @@
 ">Click Here</a> to go to my favorite site!!</p>
  
 
-</body>
 
 <hr />
