@@ -7,7 +7,8 @@
 
 <h2 style="text-align: center;">Welcome to my site!</h2>
 
-<body bgcolor="#FFFF00"> 
+<div style="background-color:rgb(255, 255, 0);"> 
+  
 <h3 style="text-align: center;">About Me</h3>
   
 <p> I am a El Paso native currently on her first year at the McCombs School of Business. I am a Marketing major that enjoys photography, soccer, and just doing new things with my friends! I am in love with traveling and going to concerts/raves/music festivals of all sorts!!   <br /><br /></p>
