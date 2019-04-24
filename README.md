@@ -5,6 +5,8 @@
 
 <center><img src="Screen Shot 2019-04-19 at 11.15.38 AM.png" width="245" height="266" align="BOTTOM" /></center>
 
+<div style="background-color:rgb(255, 255, 0);">
+
 <h2 style="text-align: center;">Welcome to my site!</h2>
   
 <h3 style="text-align: center;">About Me</h3>
@@ -14,6 +16,5 @@
 <p style="text-align: center;"><a href="https://www.coolmathgames.com/
 ">Click Here</a> to go to my favorite site!!</p>
  
-
 
 <hr />
