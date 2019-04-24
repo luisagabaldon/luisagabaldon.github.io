@@ -1,6 +1,5 @@
 
-<p>&nbsp;</p>
-<div style="background-color:rgb(255, 255, 0);"> 
+<p>&nbsp;</p><div style="background-color:rgb(255, 255, 0);"> 
 
 <h1 style="text-align: center;">My name is Luisa Fernanda Gabaldon!!</h1>
 
